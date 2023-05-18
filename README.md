@@ -1,4 +1,4 @@
-### hello to all
+# hello to all !
 welcome to my new and improved github, where I will be focusing on security-oriented projects, cybersecurity research, hackathon contributions and helping to create a safe, secure new world!
 ## current work :
 - piloting my new github page w/ a github pages website
@@ -9,7 +9,7 @@ welcome to my new and improved github, where I will be focusing on security-orie
 - any internship opportunities for summer/fall in regards to offensive security or intelligence
 - any entry level careers with a focus on cybersecurity or infosec
 
-# contact info and outro
+### contact info and outro
 -email: diante.jackson@proton.me
 -linkedin: linkedin.com/in/diantej
 
