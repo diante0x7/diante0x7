@@ -4,9 +4,10 @@ welcome to my new and improved github, where I will be focusing on security-orie
 - piloting my new github page w/ a github pages website
 - building a network of cybersecurity scholars and professionals via contributions to major frameworks and academia
 - strengthening my ability to gather OSINT and HUMINT
+- spearheading new initiatives and projects by founding and leading the Rolan Group, a cybersecurity and intelligence organization.
 ## currently seeking :
 - any scholarship opporunities with a focus on cybersecurity, programming or intelligence
-- any internship opportunities for summer/fall in regards to offensive security or intelligence
+- any internship opportunities for fall in regards to offensive security or intelligence
 - any entry level careers with a focus on cybersecurity or infosec
 
 ### contact info and outro
