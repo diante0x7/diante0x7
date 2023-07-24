@@ -6,9 +6,9 @@ welcome to my new and improved github, where I will be focusing on security-orie
 - strengthening my ability to gather OSINT and HUMINT
 - spearheading new initiatives and projects by founding and leading the Rolan Group, a cybersecurity and intelligence organization.
 ## currently seeking :
-- any scholarship opporunities with a focus on cybersecurity, programming or intelligence
-- any internship opportunities for fall in regards to offensive security or intelligence
-- any entry level careers with a focus on cybersecurity or infosec
+- any scholarship opportunities with a focus on cybersecurity, programming or intelligence
+- any internship opportunities for fall 2023 in regards to offensive security or intelligence
+- research opportunities with any academic instituion
 
 ### contact info and outro
 -email: diante.jackson@proton.me
