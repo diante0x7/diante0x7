@@ -11,8 +11,8 @@ welcome to my new and improved github, where I will be focusing on security-orie
 - research opportunities with any academic instituion
 
 ### contact info and outro
--email: diante.jackson@proton.me
--linkedin: linkedin.com/in/diantej
+- email: diante.jackson@proton.me
+- linkedin: linkedin.com/in/diantej
 
 <!--
 **diante0x7/diante0x7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
