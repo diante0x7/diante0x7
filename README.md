@@ -1,9 +1,9 @@
 # hello to all !
 welcome to my new and improved github, where I will be focusing on security-oriented projects, cybersecurity research, hackathon contributions and helping to create a safe, secure new world!
 ## current work :
-- piloting my new github page w/ a github pages website
-- building a network of cybersecurity scholars and professionals via contributions to major frameworks and academia
-- strengthening my ability to gather OSINT and HUMINT
+- developing [ThirdEye](https://github.com/diante0x7/ThirdEye), a browser data probing and extraction tool using C++ and DNS exfiltration techniques.
+- studying to obtain the CompTIA CASP+, strengthening my skillset and gaining knowledge in Governance, Risk, and Compliance while simultaneously renewing my PenTest+.
+- mastering the python-pwntools library
 - spearheading new initiatives and projects by founding and leading the Rolan Group, a cybersecurity and intelligence organization.
 ## currently seeking :
 - any scholarship opportunities with a focus on cybersecurity, programming or intelligence
