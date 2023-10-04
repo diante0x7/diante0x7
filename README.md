@@ -2,6 +2,8 @@
 welcome to my new and improved github, where I will be focusing on security-oriented projects, cybersecurity research, hackathon contributions and helping to create a safe, secure new world!
 ## current work :
 - developing [ThirdEye](https://github.com/diante0x7/ThirdEye), a browser data probing and extraction tool using C++ and DNS exfiltration techniques.
+- maintaining [PwnAtlas](https://github.com/diante0x7/PwnAtlas), CougarCS InfoSec's CVE and Exploit lookup python module (~~Published in PyPi as of ///~~)
+- leading the development of multiple discord bots and associated applications that help develop penetration testing skillsets, teach definitions and aid in developing methodologies.
 - studying to obtain the CompTIA CASP+, strengthening my skillset and gaining knowledge in Governance, Risk, and Compliance while simultaneously renewing my PenTest+.
 - mastering the python-pwntools library
 - gaining a deeper understanding of kernel/ring-0 development
@@ -11,6 +13,7 @@ welcome to my new and improved github, where I will be focusing on security-orie
 - any internship opportunities for fall 2023 in regards to offensive security or intelligence
 - research opportunities with any academic instituion
 ## stats & achievements
+- CougarCS InfoSec Workshops Lead and CTF Co-Lead
 - Peaked #749 on [HackTheBox.eu](https://app.hackthebox.com/profile/16086) (Top 0.03%)
 - Top 8% [TryHackMe](https://tryhackme.com/p/Shaolin)
 - #1 State (Texas) & #4 National - CyberPatriot 2019-2020
