@@ -3,7 +3,7 @@ welcome to my new and improved github, where I will be focusing on security-orie
 ## current work :
 - developing [GOTHAM!](https://github.com/diante0x7/GOTHAM), a hyper-sensitive security solution for debian machines.
 - teaching cybersecurity and penetration testing concepts to college students with [The Academy](https://github.com/diante0x7/TheAcademy)
-- maintaining [PwnAtlas](https://github.com/CougarCS-InfoSec/PwnAtlas), CougarCS InfoSec's CVE and Exploit lookup python module (~~Published in PyPi as of ///~~)
+- maintaining [PwnAtlas](https://github.com/CougarCS-InfoSec/PwnAtlas), CougarCS InfoSec's CVE and Exploit lookup python module (Published in [PyPi](https://pypi.org/project/PwnAtlas)
 - leading the development of multiple discord bots and associated applications that help develop penetration testing skillsets, teach definitions and aid in developing methodologies.
 - studying to obtain the CompTIA CASP+, strengthening my skillset and gaining knowledge in Governance, Risk, and Compliance while simultaneously renewing my PenTest+.
 - mastering the python-pwntools library
