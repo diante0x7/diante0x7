@@ -1,7 +1,8 @@
 # hello to all !
 welcome to my new and improved github, where I will be focusing on security-oriented projects, cybersecurity research, hackathon contributions and helping to create a safe, secure new world!
 ## current work :
-- developing [ThirdEye](https://github.com/diante0x7/ThirdEye), a browser data probing and extraction tool using C++ and DNS exfiltration techniques.
+- developing [GOTHAM!](https://github.com/diante0x7/GOTHAM), a hyper-sensitive security solution for debian machines.
+- teaching cybersecurity and penetration testing concepts to college students with [The Academy](https://github.com/diante0x7/TheAcademy)
 - maintaining [PwnAtlas](https://github.com/CougarCS-InfoSec/PwnAtlas), CougarCS InfoSec's CVE and Exploit lookup python module (~~Published in PyPi as of ///~~)
 - leading the development of multiple discord bots and associated applications that help develop penetration testing skillsets, teach definitions and aid in developing methodologies.
 - studying to obtain the CompTIA CASP+, strengthening my skillset and gaining knowledge in Governance, Risk, and Compliance while simultaneously renewing my PenTest+.
@@ -10,7 +11,7 @@ welcome to my new and improved github, where I will be focusing on security-orie
 - spearheading new initiatives and projects by founding and leading the Rolan Group, a cybersecurity and intelligence organization.
 ## currently seeking :
 - any scholarship opportunities with a focus on cybersecurity, programming or intelligence
-- any internship opportunities for fall 2023 in regards to offensive security or intelligence
+- any internship opportunities during spring 2024 in regards to offensive security or intelligence
 - research opportunities with any academic instituion
 ## stats & achievements
 - CougarCS InfoSec Workshops Lead and CTF Co-Lead
