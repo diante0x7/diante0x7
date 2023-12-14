@@ -14,7 +14,8 @@ welcome to my new and improved github, where I will be focusing on security-orie
 - any internship opportunities during spring 2024 in regards to offensive security or intelligence
 - research opportunities with any academic instituion
 ## stats & achievements
-- CougarCS InfoSec Workshops Lead and CTF Co-Lead
+- Workshops Lead and CTF Co-Lead @ CougarCS InfoSec <Fall 2023>
+- Information Security Director @ CougarCS <Dec 2023-Current>
 - Peaked #749 on [HackTheBox.eu](https://app.hackthebox.com/profile/16086) (Top 0.03%)
 - Top 8% [TryHackMe](https://tryhackme.com/p/Shaolin)
 - #1 State (Texas) & #4 National - CyberPatriot 2019-2020
