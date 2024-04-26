@@ -1,13 +1,14 @@
 # hello to all !
 welcome to my new and improved github, where I will be focusing on security-oriented projects, cybersecurity research, hackathon contributions and helping to create a safe, secure new world!
 ## current work :
+- creating beginner-focused penetration testing and offensive security curriculum for high-school - college aged students wanting a career in Cybersecurity
 - developing [GOTHAM!](https://github.com/diante0x7/GOTHAM), a hyper-sensitive security solution for intrusion detection and data exfiltration monitoring on debian machines.
-- teaching cybersecurity and penetration testing concepts to college students with [The Academy](https://github.com/diante0x7/TheAcademy)
+- leveraging embedded systems to develop a devastating, yet portable arsenal of tools for a pentester to have at their disposal
+- learning advanced data exfiltration and secure-communication techniques, which has spawned the creation of a new layered protocol.
+- teaching cybersecurity and penetration testing concepts to college students with [The Academy](https://github.com/diante0x7/TheAcademy) and [Project Epsion](https://github.com/diante0x7/Project-Epsion)
 - maintaining [PwnAtlas](https://github.com/CougarCS-InfoSec/PwnAtlas), CougarCS InfoSec's CVE and Exploit lookup python module (Published in [PyPi](https://pypi.org/project/PwnAtlas))
-- leading the development of multiple discord bots and associated applications that help develop penetration testing skillsets, teach definitions and aid in developing methodologies.
+- leading the development of multiple discord bots and associated applications for multiple large-scale communities
 - studying to obtain the CompTIA CASP+, strengthening my skillset and gaining knowledge in Governance, Risk, and Compliance while simultaneously renewing my PenTest+.
-- mastering the python-pwntools library
-- gaining a deeper understanding of kernel/ring-0 development
 - spearheading new initiatives and projects by founding and leading the Rolan Group, a cybersecurity and intelligence organization.
 ## currently seeking :
 - any scholarship opportunities with a focus on cybersecurity, programming or intelligence
